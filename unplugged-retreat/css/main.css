@@ -113,6 +113,7 @@ header .content-wrapper {
   justify-content: center;
   align-items: center;
   flex-flow: row wrap;
+  margin: 0;
 }
 
 header nav {
@@ -120,6 +121,7 @@ header nav {
   justify-content: space-around;
   align-items: center;
   flex-flow: row wrap;
+  width: 60%;
 }
 
 header nav ul {
@@ -139,9 +141,22 @@ footer .social-icons p {
   align-items: center;
 }
 
+footer .content-wrapper {
+  width: 55%;
+  margin: 50px 0;
+}
 
+header {
+  padding: 15px 0;
+}
 
+footer p {
+  margin: 0;
+}
 
+.features p {
+  margin: 0;
+}
 
  /* ==========================================================================
    Helper classes
