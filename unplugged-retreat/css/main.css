@@ -219,6 +219,11 @@ header nav ul li {
   font-size: 1.125em;
 }
 
+header .content-wrapper a {
+  background: url(../img/);
+  min-height: 
+}
+
 footer {
   text-align: center;
   flex-direction: column;
@@ -550,6 +555,18 @@ Helper classes
     font-size: 1.5em;
     line-height: 1.25em;
   }
+
+/* Hero Area */
+
+.hero-area {
+  background: url(../img/jake-melara-30679-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 56.5em;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
 
   /* Header */
 
