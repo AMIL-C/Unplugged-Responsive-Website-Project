@@ -269,7 +269,7 @@ footer .copyright {
 /* Hero Area */
 
 .hero-area {
-  background: url(../img/jake-melara-30679-unsplash.jpg);
+  background: url(../img/unplugged-retreat.jpg);
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -583,9 +583,9 @@ Helper classes
   /* Hero Area */
 
   .hero-area {
-    background: url(../img/jake-melara-30679-unsplash.jpg);
+    /*background: url(../img/jake-melara-30679-unsplash.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: center;*/
     min-height: 56.5em;
     display: flex;
     justify-content: center;
