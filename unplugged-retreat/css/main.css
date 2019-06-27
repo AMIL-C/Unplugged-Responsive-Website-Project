@@ -357,8 +357,7 @@ input[type=button] {
 /* Reviews */
 
 figure {
-  width: 31.125em;
-  height: 22.375em;
+  margin: 0;
 }
 
 figure .content-wrapper {
