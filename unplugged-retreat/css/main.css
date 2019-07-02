@@ -272,7 +272,7 @@ footer .copyright {
   background: url(../img/unplugged-retreat.jpg);
   background-size: cover;
   background-position: center;
-  min-height: 500px;
+  min-height: 530px;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -320,7 +320,7 @@ input[type=button] {
 /* Features */
 
 .features {
-  background: url("../img/rawpixel-800820-unsplash1.jpg");
+  background: url("../img/unplugged-retreat-features.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -355,6 +355,22 @@ input[type=button] {
 }
 
 /* Reviews */
+
+figure {
+  margin: 0;
+}
+
+header figure {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+article figure {
+  width: 502px;
+}
 
 .reviews {
   background-color: #2A423A;
@@ -564,10 +580,6 @@ Helper classes
     justify-content: space-around;
   }
 
-  header figure {
-    width: 30%;
-  }
-
   header nav {
     width: 20%;
   }
@@ -583,10 +595,6 @@ Helper classes
   /* Hero Area */
 
   .hero-area {
-    /*background: url(../img/jake-melara-30679-unsplash.jpg);
-    background-size: cover;
-    background-position: center;*/
-    min-height: 56.5em;
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
