@@ -272,7 +272,11 @@ footer .copyright {
   background: url(../img/unplugged-retreat.jpg);
   background-size: cover;
   background-position: center;
+<<<<<<< HEAD
   min-height: 530px;
+=======
+  min-height: 1000px;
+>>>>>>> origin/master
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -360,6 +364,7 @@ figure {
   margin: 0;
 }
 
+<<<<<<< HEAD
 header figure {
   width: 60%;
   display: flex;
@@ -370,6 +375,10 @@ header figure {
 
 article figure {
   width: 502px;
+=======
+figure .content-wrapper {
+
+>>>>>>> origin/master
 }
 
 .reviews {
@@ -595,6 +604,10 @@ Helper classes
   /* Hero Area */
 
   .hero-area {
+<<<<<<< HEAD
+=======
+    min-height: 56.5em;
+>>>>>>> origin/master
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
