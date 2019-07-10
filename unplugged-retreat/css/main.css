@@ -587,7 +587,6 @@ Helper classes
   /* Hero Area */
 
   .hero-area {
-    min-height: 56.5em;
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
