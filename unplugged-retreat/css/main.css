@@ -360,10 +360,6 @@ figure {
   margin: 0;
 }
 
-article figure {
-  width: 502px;
-}
-
 .reviews {
   background-color: #2A423A;
   display: flex;
