@@ -356,14 +356,6 @@ input[type=button] {
 
 /* Reviews */
 
-figure {
-  margin: 0;
-}
-
-article figure {
-  width: 502px;
-}
-
 .reviews {
   background-color: #2A423A;
   display: flex;
@@ -596,11 +588,11 @@ Helper classes
     flex-flow: row wrap;
   }
 
-  .hero-area h1 {
+  /* .hero-area h1 {
     font-size: 3em;
     line-height: 1em;
     margin: 0;
-  }
+  } */
 
   /* Aside */
   
@@ -744,7 +736,7 @@ Helper classes
     width: 100%;
   }
 
-  .faq h4
+  .faq h4,
   .faq p {
     font-size: 0.875em;
     line-height: 1.125em;
