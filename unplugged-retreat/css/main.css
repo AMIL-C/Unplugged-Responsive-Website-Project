@@ -561,7 +561,7 @@ Helper classes
 
   header .content-wrapper {
     width: 100%;
-    justify-content: space-around;
+    justify-content: space-between;
   }
 
   header nav {
