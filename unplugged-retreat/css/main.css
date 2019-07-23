@@ -706,7 +706,7 @@ Helper classes
     padding-bottom: 45.5%;
   }
 
-  .contact-section, .content-wrapper h2 {
+  .contact-section .content-wrapper h2 {
     width: 80%;
   }
 
